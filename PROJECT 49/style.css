@@ -1,0 +1,19 @@
+.Menu {
+    display :flex;
+    justify-content: space-between;
+    background-color: rgba(31, 31, 31, 0.865);
+    color : white;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.origami {
+   border-radius: 60px;
+   background-color: rgb(255, 194, 238);
+
+   width:270px
+}
